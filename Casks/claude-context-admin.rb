@@ -1,6 +1,6 @@
 cask "claude-context-admin" do
-  version "0.1.1"
-  sha256 "4b1ba02c8c61f6618a0f89ef633830169b80c511dc12409e54d657c9d8884a36"
+  version "0.1.2"
+  sha256 "7b05011cb7278dd25ce0dc3bf38ff3ccb74e6d1623756642932d03aa657c7c6e"
 
   url "https://github.com/johnccarroll/claude-context-admin/releases/download/v#{version}/ClaudeContextAdmin-#{version}-macos.zip"
   name "Claude Context Admin"
